@@ -1,10 +1,10 @@
 # Windows-Activator
 
 ## Contents
-- Convertion File
+- Conversion File
 - Activation File
 
-## Convertion File
+## Conversion File
 It converts Windows 10 Home Single Language to Windows 10 Professional.
 
 ## Activation File
